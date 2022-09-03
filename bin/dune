@@ -1,0 +1,4 @@
+(executable
+ (public_name lexlab)
+ (name main)
+ (libraries lexlab))
